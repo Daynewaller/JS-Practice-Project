@@ -1,9 +1,31 @@
+DOCTYPE html>  
+<html>
+<head>
+        <script type ="text/javascript" sr="jsfile.js"></script>
+        <title></title>
+</head>
+     <ul>
+                                                         <li><a href"index.html">home</a></li>
+                                                         <li><a href"#">Portfolio</a>
+                                                                       <ul>
+                                                                      <li><a href"#">Digital art</a></li> 
+                                                                      <li><a href"#">Video production</a></li>
+                                                                      <li><a href"#">web devlopment</a></li>
+                                                                       </ul>
+                                                                       </li>
+                                                         <li><a href"#">About me</a></li>              
+                                                         <li><a href"#">Contact</a></li>
+                                                     </ul>
+                                                                       </naV>
+<body>
+        </html>
+
 <link rel="stylesheet" href="style.css">
 <div class="wrapper active-element">
         <header class="main-header">
             <nav>
                 <div class="masthead active-element">
-                    <h1><a href="#0"></a></h1>
+                    <h1><a href="#0">Branding</a></h1>
                     <div id="menu-toggle" class="menu-toggle active-element">
                         <div class="one"></div>
                         <div class="two"></div>
@@ -31,25 +53,3 @@
                     
                     
                     
-DOCTYPE html>  
-<html>
-<head>
-        <script type ="text/javascript" sr="jsfile.js"></script>
-        <title></title>
-        <link rel="stylesheet" type/css" href="stlye.css">
-</head>
-     <ul>
-                                                         <li><a href"index.html">home</a></li>
-                                                         <li><a href"#">Portfolio</a>
-                                                                       <ul>
-                                                                      <li><a href"#">Digital art</a></li> 
-                                                                      <li><a href"#">Video production</a></li>
-                                                                      <li><a href"#">web devlopment</a></li>
-                                                                       </ul>
-                                                                       </li>
-                                                         <li><a href"#">About me</a></li>              
-                                                         <li><a href"#">Contact</a></li>
-                                                     </ul>
-                                                                       </naV>
-<body>
-        </html>
