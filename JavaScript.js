@@ -1,7 +1,7 @@
 DOCTYPE html>  
 <html>
 <head>
-        <script type ="text/javascript" sr="jsfile.js"></script>
+        <script type ="text/javascript" sr="JavaScipt.js"></script>
         <title></title>
 </head>
      <ul>
