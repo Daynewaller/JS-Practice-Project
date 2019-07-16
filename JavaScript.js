@@ -21,8 +21,8 @@ DOCTYPE html>
         </html>
 
 <link rel="stylesheet" href="style.css">
-<div class="wrapper active-element">
-        <header class="main-header">
+<div class="wrapper active-element">                      
+        <header class="main-header"> 
             <nav>
                 <div class="masthead active-element">
                     <h1><a href="#0">Branding</a></h1>
